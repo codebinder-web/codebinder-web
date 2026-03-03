@@ -1,10 +1,10 @@
 # About Me
 
-I am a quantitatively driven incoming undergraduate developing a rigorous foundation in **Artificial Intelligence, Econometrics, and Data Science** prior to formal university study.
+I am a quantitatively driven incoming undergraduate developing a rigorous foundation in **Artificial Intelligence, Econometrics, Data Science, and Cybersecurity** prior to formal university study.
 
-My work integrates mathematical modeling, statistical inference, and engineered machine learning systems. I focus on building theoretically grounded, reproducible, and structurally robust quantitative systems — not just predictive models.
+My work integrates mathematical modeling, statistical inference, machine learning, and secure system design. I focus on building theoretically grounded, reproducible, and structurally robust quantitative systems — not just predictive models.
 
-I approach AI and econometrics from a systems perspective: assumptions first, diagnostics second, modeling third, validation fourth, and only then deployment.
+I approach AI, econometrics, and security from a systems perspective: assumptions first, diagnostics second, modeling third, validation fourth, and secure deployment throughout.
 
 ---
 
@@ -16,10 +16,11 @@ My primary interests lie in:
 - Econometric inference under realistic assumptions  
 - Time-series modeling for macroeconomic and financial systems  
 - Model robustness and reliability  
+- Secure AI architectures  
+- AI-driven anomaly detection  
 - Hybrid deterministic–statistical modeling  
-- Secure and trustworthy AI architectures  
 
-I am particularly interested in how classical econometrics and modern machine learning can be unified within disciplined engineering frameworks.
+I am particularly interested in how classical econometrics, modern machine learning, and cybersecurity principles can be unified within disciplined engineering frameworks.
 
 ---
 
@@ -49,6 +50,14 @@ I am particularly interested in how classical econometrics and modern machine le
 - Hyperparameter optimization
 - Model comparison under controlled experimental design
 - Performance evaluation (RMSE, MAE, MAPE)
+
+### Cybersecurity & Secure Systems
+- AI-driven anomaly detection concepts
+- Phishing simulation analysis & behavioral modeling
+- Threat modeling fundamentals
+- Secure system design principles
+- Risk-based thinking in AI deployment
+- Understanding of attack surfaces in ML systems
 
 ### Engineering & Reproducibility
 - End-to-end ML pipelines (data → feature engineering → modeling → validation → reporting)
@@ -108,6 +117,7 @@ I am continuing to expand my foundation through:
 - Advanced mathematical study (probability, inference, linear algebra)  
 - Independent quantitative systems  
 - Externships and structured technical internships  
+- Security-focused AI system design exploration  
 
 ---
 
@@ -118,7 +128,6 @@ Long-term, I am interested in:
 - Econometric–ML integration  
 - Robust time-series modeling under structural breaks  
 - AI reliability in financial and macroeconomic systems  
-- Secure ML architectures  
+- Secure and trustworthy AI systems  
 - Causal modeling and structural inference  
-
-I am intentionally building depth in mathematics, statistics, and AI systems before beginning formal undergraduate study.
+- AI-driven security analytics  
